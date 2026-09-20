@@ -1,5 +1,5 @@
-#A00425511
+#A000494388
 
-Public int addition (int a, int b){
-	return a + b;
-}
+def subtracction(a,b):
+	sub=a-b
+	prit(sub)
