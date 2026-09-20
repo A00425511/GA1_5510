@@ -1,5 +1,4 @@
-#A00425511
+#A000494388
 
-Public int maximum (int a, int b){
-	return MATH.max(a,b);
-}
+def avg(a, b):
+    return (a + b) / 2
