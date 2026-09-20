@@ -1,0 +1,5 @@
+#A00425511
+
+Public int maximum (int a, int b){
+	return MATH.max(a,b);
+}
