@@ -6,3 +6,8 @@ def subtracction(a,b):
 
 def addition(a,b):
 	return a+b
+
+#A00498159
+
+def multiplication(a, b):
+    return a * b

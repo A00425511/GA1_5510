@@ -5,3 +5,8 @@ def mod(a, b):
 
 def division(a,b):
 	return a / b
+
+#A00498159
+
+def minimum(a, b):
+    return min(a, b)
